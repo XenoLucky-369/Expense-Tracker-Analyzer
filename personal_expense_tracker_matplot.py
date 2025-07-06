@@ -1,12 +1,3 @@
-# first this will take input for profile 
-#expense_tracker/
-#├── main.py                # entry point
-#├── profile.json           # stores user profile
-#├── expenses.csv           # stores expense logs
-#├── data_analysis.py       # functions to analyze
-#├── visualizer.py          # charts
-#├── utils.py               # load/save helpers
-
 import json
 import os 
 import matplotlib.pyplot as plt
